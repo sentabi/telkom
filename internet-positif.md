@@ -1,4 +1,4 @@
-Daftar IP Internet Positif Telkom
+# Daftar IP Internet Positif Telkom
 ```
 118.97.116.10
 118.97.116.27
@@ -6,4 +6,9 @@ Daftar IP Internet Positif Telkom
 36.86.63.180
 # kendedes.uzone.id
 36.66.1.2
+```
+# DOMAIN
+```
+csf.uzone.id
+kendedes.uzone.id
 ```
