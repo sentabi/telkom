@@ -1,17 +1,23 @@
-# Daftar IP Internet Positif Telkom Speedy/Telkom Indihome
+# Daftar IP Internet Positif Telkom Indihome
 ```
 118.97.116.10
 118.97.116.27
 202.69.110.78
 36.86.63.180
+118.97.116.2
 # kendedes.uzone.id
 36.66.1.2
 ```
-# DOMAIN
+# Daftar DOMAIN Internet Positif Telkom Indihome
 ```
 csf.uzone.id
+cfs.uzone.id
 kendedes.uzone.id
 ```
+
+# Blokir /24
+Range yang digunakan Internet Positif ada di 118.97.116.0/24 jadi mending blok semuanya ;)
+
 
 # Script JS
 contoh script yang di inject ke http
