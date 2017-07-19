@@ -13,10 +13,16 @@
 csf.uzone.id
 cfs.uzone.id
 kendedes.uzone.id
+cdn.uzone.id
+cdn3.uzone.id
+usearch.co.id
+d5nxst8fruw4z.cloudfront.net
+d31qbv1cthcecs.cloudfront.net
+expose.uzone.id
 ```
 
 # Blokir /24
-Range yang digunakan Internet Positif ada di 118.97.116.0/24 jadi mending blok semuanya ;)
+Range yang digunakan Internet Positif ada di `118.97.116.0/24` jadi mending blok semuanya ;)
 
 
 # Script JS
