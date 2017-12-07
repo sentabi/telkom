@@ -7,6 +7,7 @@
 118.97.116.2
 # kendedes.uzone.id
 36.66.1.2
+36.86.63.182 # mercusuar.uzone.id
 ```
 # Daftar DOMAIN Internet Positif Telkom Indihome
 ```
@@ -19,6 +20,7 @@ usearch.co.id
 d5nxst8fruw4z.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 expose.uzone.id
+mercusuar.uzone.id
 ```
 
 # Blokir /24
