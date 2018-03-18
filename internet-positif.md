@@ -22,6 +22,10 @@ d31qbv1cthcecs.cloudfront.net
 expose.uzone.id
 mercusuar.uzone.id
 p01.notifa.info #118.97.116.2
+p02.notifa.info
+p03.notifa.info
+p05.notifa.info
+d01.notifa.info
 ```
 
 # Blokir /24
