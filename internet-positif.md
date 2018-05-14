@@ -31,6 +31,23 @@ d01.notifa.info
 # Blokir /24
 Range yang digunakan Internet Positif ada di `118.97.116.0/24` jadi mending blok semuanya ;)
 
+# Dnsmasq
+Untuk memblokir domain/subdomain tambahkan di `dnsmasq.conf`
+```
+address=/notifa.info/127.0.0.1
+address=/uzone.id/127.0.0.1
+```
+dengan konfigurasi diatas, semua subdomain (wildcard) dibawah contoh notifa.info akan di blokir, seperti 
+```
+p02.notifa.info
+p03.notifa.info
+p05.notifa.info
+d01.notifa.info
+blablablabla.notifa.info
+random.apa.notifa.info
+google.domain.apa.notifa.info
+```
+
 
 # Script JS
 contoh script yang di inject ke http
