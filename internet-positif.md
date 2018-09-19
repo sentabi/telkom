@@ -9,6 +9,7 @@
 36.66.1.2
 36.86.63.182 # mercusuar.uzone.id
 36.86.63.185 # internetpositif.uzone.id
+36.66.1.2 # welcome.indihome.co.id
 ```
 # Daftar DOMAIN Internet Positif Telkom Indihome
 ```
@@ -27,6 +28,7 @@ p02.notifa.info
 p03.notifa.info
 p05.notifa.info
 d01.notifa.info
+welcome.indihome.co.id
 ```
 
 # Blokir /24
