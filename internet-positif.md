@@ -1,33 +1,37 @@
-# Daftar IP Internet Positif Telkom Indihome
+# IP dan Domain Internet Positive 
+
+## Daftar IP Internet Positive Telkom Indihome
 ```
 118.97.116.10
+118.97.116.2
 118.97.116.27
 202.69.110.78
-36.86.63.180
-118.97.116.2
-# kendedes.uzone.id
 36.66.1.2
+36.66.1.2 # welcome.indihome.co.id
+36.86.63.180
 36.86.63.182 # mercusuar.uzone.id
 36.86.63.185 # internetpositif.uzone.id
-36.66.1.2 # welcome.indihome.co.id
 ```
-# Daftar DOMAIN Internet Positif Telkom Indihome
+
+## Daftar DOMAIN Internet Positive Telkom Indihome
+
 ```
-csf.uzone.id
-cfs.uzone.id
-kendedes.uzone.id
+a01.uadexchange.com
 cdn.uzone.id
 cdn3.uzone.id
-usearch.co.id
-d5nxst8fruw4z.cloudfront.net
+cfs.uzone.id
+csf.uzone.id
+d01.notifa.info
 d31qbv1cthcecs.cloudfront.net
+d5nxst8fruw4z.cloudfront.net
 expose.uzone.id
+kendedes.uzone.id
 mercusuar.uzone.id
-p01.notifa.info #118.97.116.2
+p01.notifa.info
 p02.notifa.info
 p03.notifa.info
 p05.notifa.info
-d01.notifa.info
+usearch.co.id
 welcome.indihome.co.id
 ```
 
