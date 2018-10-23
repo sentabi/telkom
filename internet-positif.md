@@ -1,6 +1,6 @@
-# IP dan Domain Internet Positive 
+# IP dan Domain Internet Positif 
 
-## Daftar IP Internet Positive Telkom Indihome
+## Daftar IP Internet Positif Telkom Indihome
 ```
 118.97.116.10
 118.97.116.2
@@ -11,9 +11,11 @@
 36.86.63.180
 36.86.63.182 # mercusuar.uzone.id
 36.86.63.185 # internetpositif.uzone.id
+36.86.63.186 # uzone.id
+
 ```
 
-## Daftar DOMAIN Internet Positive Telkom Indihome
+## Daftar DOMAIN Internet Positif Telkom Indihome
 
 ```
 a01.uadexchange.com
@@ -34,6 +36,7 @@ p05.notifa.info
 usearch.co.id
 welcome.indihome.co.id
 upoint.id
+uzone.id
 ```
 
 # Blokir /24
@@ -44,11 +47,11 @@ Range yang digunakan Internet Positif ada di
 ```
 jadi mending blok semuanya ;)
 
-# Dnsmasq
+## Dnsmasq
 Untuk memblokir domain/subdomain tambahkan di `dnsmasq.conf`
 ```
-address=/notifa.info/127.0.0.1
-address=/uzone.id/127.0.0.1
+address=/notifa.info/0.0.0.0
+address=/uzone.id/0.0.0.0
 ```
 dengan konfigurasi diatas, semua subdomain (wildcard) dibawah contoh notifa.info akan di blokir, seperti 
 ```
