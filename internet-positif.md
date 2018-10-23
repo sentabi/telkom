@@ -7,6 +7,7 @@
 118.97.116.27
 202.69.110.78
 36.66.1.2 # welcome.indihome.co.id
+36.66.1.10 # upoint.id
 36.86.63.180
 36.86.63.182 # mercusuar.uzone.id
 36.86.63.185 # internetpositif.uzone.id
@@ -32,6 +33,7 @@ p03.notifa.info
 p05.notifa.info
 usearch.co.id
 welcome.indihome.co.id
+upoint.id
 ```
 
 # Blokir /24
