@@ -9,7 +9,11 @@
 36.66.1.2 # welcome.indihome.co.id
 36.66.1.10 # upoint.id
 36.86.63.180
+36.86.63.181 # uzone
 36.86.63.182 # mercusuar.uzone.id
+36.86.63.184 # a03.uadexchange.com
+118.97.116.28 # a02.uadexchange.com
+13.228.245.212 # wildcard uadexchange.com
 36.86.63.185 # internetpositif.uzone.id
 36.86.63.186 # uzone.id
 
@@ -19,8 +23,13 @@
 
 ```
 a01.uadexchange.com
+a03.uadexchange.com
 cdn.uzone.id
+cdn1.uzone.id
+cdn2.uzone.id
 cdn3.uzone.id
+cdn4.uzone.id
+cdn5.uzone.id
 cfs.uzone.id
 csf.uzone.id
 d01.notifa.info
@@ -34,6 +43,7 @@ p02.notifa.info
 p03.notifa.info
 p05.notifa.info
 usearch.co.id
+uadexchange.com
 welcome.indihome.co.id
 upoint.id
 uzone.id
