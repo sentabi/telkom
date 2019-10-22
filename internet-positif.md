@@ -2,21 +2,34 @@
 
 ## Daftar IP Internet Positif Telkom Indihome
 ```
+103.247.8.181
+116.0.83.162
+116.0.83.163
 118.97.116.10
 118.97.116.2
 118.97.116.27
+118.97.116.28
+118.97.116.28 # a02.uadexchange.com
+118.97.116.7
+118.98.27.44
+13.228.245.212 # wildcard uadexchange.com
+180.250.66.131
+180.250.68.155
 202.69.110.78
-36.66.1.2 # welcome.indihome.co.id
+35.166.195.252
 36.66.1.10 # upoint.id
+36.66.1.2
+36.66.1.2 # welcome.indihome.co.id
 36.86.63.180
+36.86.63.181
 36.86.63.181 # uzone
 36.86.63.182 # mercusuar.uzone.id
+36.86.63.184
 36.86.63.184 # a03.uadexchange.com
-118.97.116.28 # a02.uadexchange.com
-13.228.245.212 # wildcard uadexchange.com
 36.86.63.185 # internetpositif.uzone.id
+36.86.63.186
 36.86.63.186 # uzone.id
-
+54.69.194.97
 ```
 
 ## Daftar DOMAIN Internet Positif Telkom Indihome
@@ -24,29 +37,33 @@
 ```
 a01.uadexchange.com
 a03.uadexchange.com
-cdn.uzone.id
 cdn1.uzone.id
 cdn2.uzone.id
 cdn3.uzone.id
 cdn4.uzone.id
 cdn5.uzone.id
+cdn.uzone.id
 cfs.uzone.id
 csf.uzone.id
 d01.notifa.info
 d31qbv1cthcecs.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
+das.uadexchange.com
+digiads.co.id
 expose.uzone.id
+js.digiads.co.id
 kendedes.uzone.id
 mercusuar.uzone.id
 p01.notifa.info
 p02.notifa.info
 p03.notifa.info
 p05.notifa.info
-usearch.co.id
 uadexchange.com
-welcome.indihome.co.id
 upoint.id
+usearch.co.id
 uzone.id
+welcome.indihome.co.id
+www.uzone.id
 ```
 
 # Blokir /24
