@@ -37,6 +37,7 @@
 ```
 a01.uadexchange.com
 a03.uadexchange.com
+block.uzone.id
 cdn1.uzone.id
 cdn2.uzone.id
 cdn3.uzone.id
@@ -52,13 +53,18 @@ das.uadexchange.com
 digiads.co.id
 digilife.uzone.id
 expose.uzone.id
+food.uzone.id
+internetpositif.uzone.id
 js.digiads.co.id
 kendedes.uzone.id
 mercusuar.uzone.id
+news.uzone.id
 p01.notifa.info
 p02.notifa.info
 p03.notifa.info
 p05.notifa.info
+terbaru.uzone.id
+terpopuler.uzone.id
 uadexchange.com
 upoint.id
 usearch.co.id
