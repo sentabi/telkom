@@ -50,6 +50,7 @@ d31qbv1cthcecs.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
 das.uadexchange.com
 digiads.co.id
+digilife.uzone.id
 expose.uzone.id
 js.digiads.co.id
 kendedes.uzone.id
