@@ -2,7 +2,7 @@
 
 Telkom Indihome/Telkomsel meng-inject iklan di semua website yang menggunakan http, jadi jangan heran bila sewaktu main game, tiba-tiba muncul iklan :(
 
-Solusi paling ampuh gunakan [DNSCrypt](https://github.com/jedisct1/dnscrypt-proxy), ataupun VPN. 
+Solusi paling ampuh gunakan [DNSCrypt](https://github.com/DNSCrypt/dnscrypt-proxy), ataupun VPN. Atau gunakan pi-hole bila anda memiliki Raspberry Pi, OrangePi atau SBC untuk dijalankan 24/7. 
 
 # DNS HIJACK
 
@@ -66,3 +66,4 @@ Content-Length: 0
 < 
 * Connection #0 to host kodok.galau left intact
 ```
+
