@@ -71,6 +71,7 @@ usearch.co.id
 uzone.id
 welcome.indihome.co.id
 www.uzone.id
+internetpositif.id
 ```
 
 # Blokir /24
